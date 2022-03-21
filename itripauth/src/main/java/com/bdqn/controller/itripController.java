@@ -25,6 +25,7 @@ import java.util.*;
 public class itripController {
 
             public static void sentsm(String phone,String message){
+                        //王宇飞是个傻孩子
                 //生产环境请求地址：app.cloopen.com
                 String serverIp = "app.cloopen.com";
                 //请求端口
